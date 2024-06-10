@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ranil-2000
-- 👀 I’m interested in JAVA,HTML,CSS,JS
-- 🌱 I’m currently learning WEBDEVELOPMENT
+- Software Developer🧑‍💻🧑‍🎓
+- 👀 I’m interested in JAVA,HTML,CSS,JS,.Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me BY CONTACTING ME BY EMAIL ranilrsenapati@gmail.com 
 
